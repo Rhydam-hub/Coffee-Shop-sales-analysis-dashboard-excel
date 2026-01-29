@@ -1,7 +1,7 @@
 # Coffee-Shop-sales-analysis-dashboard-excel
 Interactive Sales Analysis Dashboard built using Excel
 
-# Coffee Shop Sales Analysis Dashboard (Excel)
+![Dashboard Preview](Dashboard_preview.png)
 
 ## 📊 Project Overview
 This project is an interactive sales analysis dashboard built in Microsoft Excel to analyze sales performance across products, regions, and time periods.
